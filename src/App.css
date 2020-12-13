@@ -6,17 +6,17 @@
   height: 40vmin;
   pointer-events: none;
 }
-body{
-  padding:20px 60px;
+body {
+  padding: 20px 60px;
 }
 @media (prefers-reduced-motion: no-preference) {
   .App-logo {
     animation: App-logo-spin infinite 20s linear;
   }
 }
-a{
+a {
   text-decoration: none;
-  color:black;
+  color: black;
 }
 .App-header {
   background-color: #282c34;
@@ -40,4 +40,7 @@ a{
   to {
     transform: rotate(360deg);
   }
+}
+* {
+  box-sizing: border-box;
 }

@@ -1,9 +1,13 @@
-.signin{
-width: 30vw ;
-display: felx;
-flex-direction: column;
+.signin {
+  width: 380px;
+  display: felx;
+  flex-direction: column;
 
-.title{
-    margin:10 0;
-}
+  .title {
+    margin: 10 0;
+  }
+  .button {
+    display: flex;
+    justify-content: space-between;
+  }
 }
