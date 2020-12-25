@@ -38,7 +38,7 @@ const CheckoutPage = ({cartItems,total}) =>(
             <br/>
             credit card: 4242 4242 4242 4242
             <br/>
-            master card:5555 5555 5555 4444
+            master card: 5555 5555 5555 4444
             <br/>
             CVV: 123
         </div>
